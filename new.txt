@@ -1,0 +1,8 @@
+name: Denys Parfentiyev
+age: 27 y.o.
+number animal at home: 1
+future desired salary: 700 USD
+
+
+
+
