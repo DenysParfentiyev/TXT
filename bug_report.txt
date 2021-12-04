@@ -1,4 +1,4 @@
 Title:*
 STR:*
-Expected resault:*
-Actual resault:*
+Expected result:*
+Actual result:*
